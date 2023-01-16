@@ -1,0 +1,28 @@
+{
+  "files": {
+    "app.js": "/static/js/app.6ef70178.chunk.js",
+    "app.js.map": "/static/js/app.6ef70178.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.0df1d9d4.chunk.js": "/static/js/2.0df1d9d4.chunk.js",
+    "static/js/2.0df1d9d4.chunk.js.map": "/static/js/2.0df1d9d4.chunk.js.map",
+    "fonts/NanumSquareNeoOTF-cBd.otf": "/./fonts/NanumSquareNeoOTF-cBd.otf",
+    "fonts/SUIT-Bold.otf": "/./fonts/SUIT-Bold.otf",
+    "fonts/SUIT-Medium.otf": "/./fonts/SUIT-Medium.otf",
+    "fonts/SUIT-Regular.otf": "/./fonts/SUIT-Regular.otf",
+    "fonts/SourceHanSerifK-VF.otf": "/./fonts/SourceHanSerifK-VF.otf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.0df1d9d4.chunk.js.LICENSE.txt": "/static/js/2.0df1d9d4.chunk.js.LICENSE.txt",
+    "static/media/main.png": "/static/media/main.12539bca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.0df1d9d4.chunk.js",
+    "static/js/app.6ef70178.chunk.js"
+  ]
+}
